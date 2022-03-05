@@ -2,7 +2,9 @@
 
 A simple game of killing flies developed using HTML5, CSS3 & JavaScript.
 
-To try this game, you can download this repository and just open the "index.html" file in your favorite browser!
+To try this game, you can download this repository and just open the "index.html" file in your favorite browser, or acess this link:
+
+<a href="https://vinidias21.github.io/flyswatter_gm/mata-moscas_app/index.html">Painel de jogo - Github Pages</a>
 
 The game works this way, first off you have to choose wich difficulty you want to play:
 
