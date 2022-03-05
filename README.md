@@ -10,8 +10,8 @@ The game works this way, first off you have to choose wich difficulty you want t
 
 | Difficulty | Dificuldade |
 | ------------------- | ------------------- |
-| Easy | Fácil |
 | Normal | Normal |
+| Medium | Médio |
 | Insane | Insano |
 
 Now just click on the button "Iniciar Jogo" wich means "Start game"! You will have ten seconds to kill the flies that will appear and just three lifes to miss!
